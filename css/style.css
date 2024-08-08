@@ -742,11 +742,11 @@ a[href*='tel'], a[href*='mailto'] {
 }
 
 .team-classic-figure .team-classic-soc-list a {
-	color: #C4C4C4;
+	color: #ffffff;
 }
 
 .team-classic-figure .team-classic-soc-list a:hover {
-	color: #3C3C3C;
+	color: #b6677d;
 }
 
 .team-classic-caption {
