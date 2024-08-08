@@ -180,7 +180,7 @@
               <td width="600" align="center" valign="top">
                 <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
                   <tr>
-                    <td align="center" valign="top" style="font-family: Arial, sans-serif; font-size: 12px; mso-line-height-rule: exactly; line-height: 18px; font-weight: 400;color: #a1b4c4;">Este mail fue generado automáticamente con ♥️ por ProteHer.cl</td>
+                    <td align="center" valign="top" style="font-family: Arial, sans-serif; font-size: 12px; mso-line-height-rule: exactly; line-height: 18px; font-weight: 400;color: #ffffff;">Este mail fue generado automáticamente con 💖 por ProteHer.cl</td>
                   </tr>
                 </table>
               </td>

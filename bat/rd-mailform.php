@@ -38,7 +38,7 @@ try {
                 $subject = 'A message from your site visitor';
                 break;
             case 'subscribe':
-                $subject = 'Solicitud Suscripcion ProteHer.cl';
+                $subject = 'Solicitud suscripción proteher.cl/';
                 break;
             case 'order':
                 $subject = 'Order request';
