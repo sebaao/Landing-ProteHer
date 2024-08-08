@@ -127,7 +127,7 @@ try {
     if (isset($_POST['name'])){
         $mail->FromName = $_POST['name'];
     }else{
-        $mail->FromName = "Visitante Proteher.cl";
+        $mail->FromName = "Proteher.cl";
     }
 
     foreach ($addresses[0] as $key => $value) {

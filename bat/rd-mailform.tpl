@@ -58,10 +58,10 @@
     }
     </style>
   </head>
-  <body id="body-layout" style="background: #406c8d;">
+  <body id="body-layout" style="background: #e27f9b;">
     <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
       <tr>
-        <td align="center" valign="top" style="padding: 0 15px;background: #406c8d;">
+        <td align="center" valign="top" style="padding: 0 15px;background: #e27f9b;">
           <table align="center" cellpadding="0" cellspacing="0" border="0">
             <tr>
               <td height="15" style="height: 15px; line-height:15px;"></td>
@@ -76,7 +76,7 @@
                           <td height="30" style="height: 30px; line-height:30px;"></td>
                         </tr>
                         <tr>
-                          <td align="left" valign="top" style="font-family: Arial, sans-serif; font-size: 32px; mso-line-height-rule: exactly; line-height: 32px; font-weight: 400; letter-spacing: 1px;color: #ffffff;">Notificación Suscriptor Proteher.cl</td>
+                          <td align="left" valign="top" style="font-family: Arial, sans-serif; font-size: 32px; mso-line-height-rule: exactly; line-height: 32px; font-weight: 400; letter-spacing: 1px;color: #ffffff;">Nuevo lead Proteher.cl</td>
                         </tr>
                         <tr>
                           <td height="30" style="height: 30px; line-height:30px;"></td>
@@ -91,7 +91,7 @@
                           <td height="30" style="height: 30px; line-height:30px;"></td>
                         </tr> 
                         <tr> 
-                          <td align="left" valign="top" style="font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 22px; font-weight: 400;color: #302f35;">Hi, someone left a message for you at <!-- #{SiteName} --></td> 
+                          <td align="left" valign="top" style="font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 22px; font-weight: 400;color: #302f35;">Nueva suscripción lead más información <!-- #{SiteName} --></td> 
                         </tr>
                         <tr> 
                           <td height="20" style="height: 20px; line-height:20px;"></td>
@@ -180,7 +180,7 @@
               <td width="600" align="center" valign="top">
                 <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
                   <tr>
-                    <td align="center" valign="top" style="font-family: Arial, sans-serif; font-size: 12px; mso-line-height-rule: exactly; line-height: 18px; font-weight: 400;color: #a1b4c4;">This is an automatically generated email, please do not reply.</td>
+                    <td align="center" valign="top" style="font-family: Arial, sans-serif; font-size: 12px; mso-line-height-rule: exactly; line-height: 18px; font-weight: 400;color: #a1b4c4;">Este mail fue generado automáticamente con ♥️ por ProteHer.cl</td>
                   </tr>
                 </table>
               </td>
