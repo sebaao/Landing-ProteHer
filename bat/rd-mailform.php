@@ -38,7 +38,7 @@ try {
                 $subject = 'A message from your site visitor';
                 break;
             case 'subscribe':
-                $subject = 'Subscribe request';
+                $subject = 'Solicitud Suscripcion ProteHer.cl';
                 break;
             case 'order':
                 $subject = 'Order request';
@@ -127,7 +127,7 @@ try {
     if (isset($_POST['name'])){
         $mail->FromName = $_POST['name'];
     }else{
-        $mail->FromName = "Site Visitor";
+        $mail->FromName = "Visitante Proteher.cl";
     }
 
     foreach ($addresses[0] as $key => $value) {

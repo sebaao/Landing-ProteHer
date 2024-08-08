@@ -76,7 +76,7 @@
                           <td height="30" style="height: 30px; line-height:30px;"></td>
                         </tr>
                         <tr>
-                          <td align="left" valign="top" style="font-family: Arial, sans-serif; font-size: 32px; mso-line-height-rule: exactly; line-height: 32px; font-weight: 400; letter-spacing: 1px;color: #ffffff;">Notification</td>
+                          <td align="left" valign="top" style="font-family: Arial, sans-serif; font-size: 32px; mso-line-height-rule: exactly; line-height: 32px; font-weight: 400; letter-spacing: 1px;color: #ffffff;">Notificación Suscriptor Proteher.cl</td>
                         </tr>
                         <tr>
                           <td height="30" style="height: 30px; line-height:30px;"></td>
