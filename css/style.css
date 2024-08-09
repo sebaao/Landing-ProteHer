@@ -893,6 +893,7 @@ a[href*='tel'], a[href*='mailto'] {
 	letter-spacing: -0.03em;
 	padding-left: 10px;
 	padding-right: 10px;
+	background-color: #e27f9b;
 }
 
 .bunner-content-modern .text-accent-2 {
