@@ -61,4 +61,4 @@ Este proyecto está bajo la licencia MIT. Para más detalles, consulta el archiv
 
 ## Contacto
 
-Para más información sobre Proteher o si tienes alguna pregunta, puedes contactarnos a través de nuestro correo electrónico: [contacto@proteher.cl](mailto:contacto@proteher.cl).
+Para más información sobre Proteher o si tienes alguna pregunta, puedes contactarnos a través de nuestro correo electrónico: [contacto@proteher.cl](mailto:contacto@proteher.cl)

@@ -466,6 +466,7 @@
 		if($('[data-parallax-scroll]').length && !isNoviBuilder && !isMobile){
 			ParallaxScroll.init();
 		}
+		
 
 	});
 }());
